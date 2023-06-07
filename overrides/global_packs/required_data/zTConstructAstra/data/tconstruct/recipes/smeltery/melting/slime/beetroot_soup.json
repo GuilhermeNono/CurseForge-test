@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "item": "minecraft:beetroot"
+  },
+  "result": {
+    "fluid": "createaddition:seed_oil",
+    "amount": 5400
+  },
+  "temperature": 100,
+  "time": 333
+}
